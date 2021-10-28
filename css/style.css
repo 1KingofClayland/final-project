@@ -1,0 +1,116 @@
+body{
+    margin:0;
+}
+h1{
+    font-size:2em;
+}
+h2{
+    margin:0;
+    font-size:1.8em;
+}
+h3{
+    margin:0;
+    font-size:1.6;
+}
+p{
+    margin:0;
+}
+a{
+    color:#000;
+    text-decoration-line:underline;
+}
+.full{
+    width:100%;
+    margin:0;
+}
+header{
+    font-size:1.5em;
+    color:#000;
+    position:relative;
+    top:0;
+}
+nav{
+    height:6.25em;
+    width:100%;
+    background-color:#a3a3a3;
+    position:sticky;
+    top:0em;
+    z-index:1;
+}
+.anav{
+    color:#000000;
+    text-decoration-line:none;
+}
+.navbar{
+    height:5em;
+    width:10em;
+    text-align:center;
+    position:relative;
+    left:64em;
+    bottom:2.75em;
+    display:inline-block;
+}
+.navbar:hover{
+    height:100%;
+    background-color:#8f8f8f;
+}
+.break{
+    height:2em;
+    width:100%;
+    background-color:#fff;
+}
+.main{
+    width:65%;
+}
+.main2{
+    width:98.25%
+}
+section{
+    height:2em;
+    width:100%;
+    margin:0;
+    position:relative;
+    top:1em;
+    left:1em;
+}
+article{
+    height:100em;
+    width:100%;
+    margin:0;
+    background-color:#f3f1f1;
+    position:relative;
+    top:1.5em;
+    left:1em;
+}
+aside{
+    height:100em;
+    width:32.5%;
+    box-sizing:border-box;
+    padding:0.3em;
+    background-color:#bebebe;
+    position:absolute;
+    top:17.2em;
+    left:75em;
+}
+footer{
+    height:3em;
+    background-color:#a3a3a3;
+    position:relative;
+    top:3em;
+}
+.logoheader{
+    height:6.25em;
+    width:17em;
+}
+.logofooter{
+    height:3em;
+    width:9em;
+}
+.media{
+    height:3em;
+    width:3em;
+    border-radius:30em;
+    position:relative;
+    left:100em;
+    display:inline-block;
+}
