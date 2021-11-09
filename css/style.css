@@ -52,7 +52,7 @@ header{
 nav{
     height:6.25em;
     width:100%;
-    background-color:#a3a3a3;
+    background-image:linear-gradient(to right, #c2c2c2, #636262);
     position:sticky;
     top:0em;
     z-index:1;
@@ -115,8 +115,7 @@ aside{
 }
 footer{
     height:5em;
-    background-color:#a3a3a3;
-    background-image:linear-gradient(to right, #c2c2c2, #474646);
+    background-image:linear-gradient(to right, #c2c2c2, #636262);
     position:relative;
     top:2em;
 }
